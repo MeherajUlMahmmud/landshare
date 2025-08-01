@@ -1,0 +1,67 @@
+{
+    "name": "LandShare - জমি ভাগাভাগি ক্যালকুলেটর",
+    "short_name": "LandShare",
+    "description": "দলগত জমি ক্রয়ের জন্য স্মার্ট ক্যালকুলেটর। মূল্য, ডাউন পেমেন্ট এবং কিস্তি পরিকল্পনা সহজে গণনা করুন।",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "lang": "bn",
+    "dir": "ltr",
+    "categories": [
+        "finance",
+        "utilities",
+        "business"
+    ],
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshot-wide.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "LandShare - ডেস্কটপ ভিউ"
+        },
+        {
+            "src": "/screenshot-narrow.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "LandShare - মোবাইল ভিউ"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "ক্যালকুলেটর খুলুন",
+            "short_name": "ক্যালকুলেটর",
+            "description": "LandShare ক্যালকুলেটর খুলুন",
+            "url": "/",
+            "icons": [
+                {
+                    "src": "/icon-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ]
+}
