@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import { Calculator, Users, MapPin, DollarSign, Percent, CreditCard, Calendar, Globe } from "lucide-react";
+import { Calculator, Users, Percent, Calendar } from "lucide-react";
 import LandCostCalculator from "@/components/LandCostCalculator";
 
 export const metadata: Metadata = {
